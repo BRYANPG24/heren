@@ -1,4 +1,4 @@
-class empleados extends Persona {
+class empleados extends Personas {
     tipo:string;
     anoincorporacion:number;
     numerodespacho:string;
