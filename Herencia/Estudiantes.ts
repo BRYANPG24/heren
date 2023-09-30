@@ -1,4 +1,4 @@
-class estudiantes extends Persona {
+class estudiantes extends Personas {
     curso: string;
 
     matricarNuevoCurso(nuevoCurso: string) {
